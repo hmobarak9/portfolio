@@ -1,0 +1,53 @@
+@media only screen and (max-width: 320px) {
+	.custom-nav .navbar-toggler {
+    color: #fff;
+    font-size: 35px;
+    padding: 0px;
+	}
+	.header-bg-img {
+    height: 350px;
+    max-width: 100%;
+  }
+  .box span{
+    width: 10px;
+    height: 10px;
+	}
+	.header-name {
+    font-size: 30px;
+	}
+.main-heading{
+    font-size: 20px;
+}
+
+#about{
+	margin-top: 25px;
+}
+.mt-3.photo-inner img {
+    height: 220px;
+    margin-top: 0px;
+}
+#about h2{
+	    font-size: 30px;
+}
+#about h4{
+font-size: 25px;
+text-align: center;
+}
+#about p{
+	text-align: justify;
+	margin: 0px 12px;
+}
+ #about ul{
+margin-left: 62px;
+}
+
+#service{
+	margin-top: 20px;
+}
+#service h2{
+	    font-size: 30px;
+}
+.service-box{
+margin-top: 0px;
+}
+}
